@@ -1,0 +1,91 @@
+[2023-02-02 00:27:24] [[31merror[39m] Error: THu
+    at UserService.login (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:20:26)
+    at async exports.login (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\controllers\user.controller.js:8:14)
+[2023-02-02 00:51:40] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:9:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 00:53:29] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:50:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:9:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 00:54:27] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:10:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 00:55:35] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:50:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:9:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 00:57:01] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:9:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 00:58:02] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:9:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 01:00:07] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:10:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
+[2023-02-02 01:00:29] [[31merror[39m] Error: METHOD: CheckAuthenMiddleware
+    at UserService.checkAuthenMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\services\user.service.js:49:26)
+    at authMiddleware (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\src\middleware.js:10:44)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\MYPROJECT\FrontEndApp\vue-app-default\backend\node_modules\express\lib\router\index.js:175:3)
